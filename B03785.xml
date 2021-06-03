@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Information for the Earl of Argyle and the creditors of the Marquis of Argyle, against the Duke of Gordon and Earl of Aboyne.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03785</idno><idno type="EEBO-CITATION">53299125</idno>
+  <idno type="VID">179878</idno>
+  <idno type="EEBO-PROQUEST">2248534564</idno>
+  
+            <idno type="STC">Wing I164N</idno>
+            <idno type="STC">ESTC R215452</idno>
+            <idno type="OCLC">53299125</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B03785)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179878)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2807:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Information for the Earl of Argyle and the creditors of the Marquis of Argyle, against the Duke of Gordon and Earl of Aboyne.</title>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: creased, left edge cropped, with slight loss of text.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Argyll, Archibald Campbell, --  Duke of, d. 1703.</term>
+               <term type="personal_name">Argyll, Archibald Campbell, --  Marquis of, 1598-1661.</term>
+               <term type="personal_name">Aboyne, John Gordon, --  Earl of, d. 1732.</term>
+               <term type="personal_name">Gordon, George Gordon, --  Duke of, 1649-1716.</term>
+               <term type="topical_term">Debtor and creditor --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="affidavit">
+            <pb n="1" facs="tcp:179878:1"/>
+            <head>INFORMATION For the Earl of <hi>Argyle</hi> and the Creditors of the Marquiss of <hi>Argyle,</hi> Against The Duke of <hi>Gordon</hi> and Earl of <hi>Aboyne.</hi>
+            </head>
+            <p>THAT the Forefaulture of the Marquiss of <hi>Argyle,</hi> and the taking of his Life in the Year 1661, was a stretch of rigour and severity, that all good Men have ever since <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>egrated, is nottourly known to the whole Nation.</p>
+            <p>His Life and Fortune were taken away, only for some Deeds of Complyance <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat scarce deserved the name with the <hi>English</hi> Usurpers, when the whole Nation were sub<g ref="char:EOLhyphen"/>dued by them, and under their obedience; so that the pretended Crime was not only epi<g ref="char:EOLhyphen"/>demick, but the greatest part of his Judges more Involved therein than he was.</p>
+            <p>And of this, that very Parliament that Forfaulted him &amp; took his Life, were so convin<g ref="char:EOLhyphen"/>ced, that they made their Sentence proceed upon aggravations, as they were pleased to call them from the Marquiss his former Actings, albeit all his said Actings had been Ratified and fully Indemnified by both King and Parliament; so that it was impossible justly to make them so much as an aggravation.</p>
+            <p>When the late happy Revolution came, the Claim of Right then made, did certainly point at this case, when it condescends upon the causing Pur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> streatches of old and obsolete Laws, upon frivolous and weak Pretences, and upon lame and defective Probation, as contrary to Law, and thereupon Claims, Demands and In<g ref="char:EOLhyphen"/>sists, that all Forfaultures Fines, loss of Offices, <hi>&amp;c.</hi> and rigorous Executions be consider<g ref="char:EOLhyphen"/>ed, and the Parties leased Redressed.</p>
+            <p>Likeas it is evident, by the 18 Act of the Parliament 1690, Rescinding Forfaultures, since the Year 1665. That none of the Forfaultures therein mentioned, were more groundless, than the foresaid Forfaulture pronunced against the Marquiss, and that it was in this vieu; and for the more effectual Reduction thereof, that the said Act was expresly declared, to be without prejudice of any who have been Forfaulted, or otherwise Leased, in the Ring of King <hi>Charles</hi> the Second, before the said year 1665. to bring in their Processes, or parti<g ref="char:EOLhyphen"/>cular Acts before the Parliament, and to crave and receive Redresses according to the merit of their Causes, which imports a clear licence, since that Clause cannot possibly be other<g ref="char:EOLhyphen"/>wise understood, and the words <hi>as accords</hi> of the Law, subjoyned to the Clause, is to be only understood of the weight of the merits and reason of the Reduction raised.</p>
+            <p>Whereupon the said Earl of <hi>Argyle</hi> and Creditors of the Marquiss, who for particular Rea<g ref="char:EOLhyphen"/>sons, had hitherto delayed this Process, have now at length, and towards the end of the fourty years Prescription, thought fit to raise Reduction of the foresaid Forfaulture, before His Majesty and Estates of Parliament, and having given in their Bill, contining their rea<g ref="char:EOLhyphen"/>sons of Reduction, and obtained Warrand for Citation, by deliverance of Parliament, and the Process having been duely call<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, and Parties Compearing, the Procurators for the Duke of <hi>Gordon</hi> and Earl of <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>boyn,</hi> after much shifting and many Declinators, purposely to gain time, did at the last Calling propone the Dilators following.</p>
+            <p>First, that by the Act of Parliament <hi>K. James</hi> 6. <hi>Parl.</hi> 8. <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 135. there could be no Reduction of any Process of Treason, fornullity of Process, unless First, a Remission were ob<g ref="char:EOLhyphen"/>tained. 2. That the Earl of <hi>Selkirk</hi> Clerk Regester was not called. 3. That there was no real Right nor Title produced by the Pursuers.</p>
+            <pb facs="tcp:179878:2"/>
+            <p>To all which it is answered, and to the first, The Pursuers might make several Answers, but not to detain the Parliament with such Triflings they answer. 1. That the foresaid Act of Parlia<g ref="char:EOLhyphen"/>ment 1584 made in King <hi>James</hi>'s Minority, is certainly so far in desuetude, &amp; that it was never ob<g ref="char:EOLhyphen"/>served in as much as these very Forfaultures, for which it was made were taken away the very next year thereafter without any Remission, and the blackest of Forfaultures incur<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> by the Earl of <hi>Huntly</hi> and others, for corresponding with the King of <hi>Spain</hi> to inva<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Kingdom, and subvert our State and Religion, was reduced in the year 1597 for Nullities of Process without any Remission, and generally it cannot be instanced that ever a previous Remission was required in order to the Reduction of any Forfaulture before King and Par<g ref="char:EOLhyphen"/>liament. 2. Not only the great Act Rescinding Forfaultures in the year 1690, but all the special Acts Reducing and Rescinding Forfaultures in that Session of Parliament, did pro<g ref="char:EOLhyphen"/>ceed without any previous Remission, and tho the same Dilator was proponed in several of these particular Cases, as in the Reducing of <hi>Swintouns</hi> Forfaulture, yet it was repelled and which could not be called an Act of Legislation, having proceeded upon Application and hearing of both Parties. 3. It is evident that the very intent of the Claim of Right and of the Declaration it the foresaid Act of Parliament 1690, was to bring in both this and all other such Reductions of Forfaultures without necessity of previous Remission. And 4. That by the very foresaid Act of Parliament 1584, there is no necessity of a previous Re<g ref="char:EOLhyphen"/>mission in order to the Reducing of Forfaultures when the Reduction is expresly warranted and allowed by deliverance of Parliament. 5. If it could be pretended that a Remission were requisite in this case, which is absurd, the ample Indemnity in <hi>September</hi> 1688, does fully satisfie the same, which must operate fully as much as any particular Remmission could do. And albeit the said Indemnity contained an Exception of Forfaultures, Dooms and Sentences thereof, yet that Exception is qualified in these precise words; <hi>viz, And that as to the Estates only thereby Forfaulted but without any prejudice to the persons thereby indemnified and their Me<g ref="char:EOLhyphen"/>mories and Posterities against whom the said Sentences and Dooms were pronounced;</hi> So that this Dilator is most groundless and frivolous.</p>
+            <p n="2">2, As to the second Dilator, that the Earl of <hi>Selkirk</hi> Clerk Register is not called; It is answered 1. That the Officers of State are called in the ordinary manner, and as is usual in such Cases either before the Lords of Session or any other Court, and there is no necessity eithe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by Law or Custom to call the Officers of State in Parliament, far less such as are out of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Deputs Mr. <hi>Alexander Gibson</hi> of <hi>Durie</hi> and <hi>Jame<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Hamilton</hi> both Clerks of Parliament and Session, and who has a special Commission for keep<g ref="char:EOLhyphen"/>ing of the Records are both cited, and the Earl of <hi>Selkirk</hi> himself is excused from attendanc<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in this Session of Parliament by the Kings special Order.</p>
+            <p n="3">3. To the third Dilator <hi>viz.</hi> no Real Right nor Title produced by the pursuers: It was answered<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> No necessity to produce the same, because the Earls interest of Blood for his part was no doub<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> sufficient, it being farder impossible that there should be any real Right in his person, as Hei<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to his Grand-father, till the Forfaulture be first Rescinded. 2. As to the Creditors there c<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> be nothing farder required then that they instruct themselves Creditors, by producing<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Marquis of <hi>Arg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>les</hi> Bonds and Diligence by Apprising against his Cautioners, which do<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> both found and instruct their interest sufficiently, neither is there any Reduction craved<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Infer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ment in this Proces, but simply of the Decreet of Forfaulture and Grounds and Warran<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> thereof. And 3. For superabundance; if the Defenders must needs have a real Right and Int<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> rest produced, the Laird of <hi>Innes</hi> who hath a joynt Process with the Earl, produces a Re<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Right and Infeftment in the Lordship of <hi>Enzie</hi> and Estate of <hi>Huntly.</hi>
+            </p>
+            <p>And thus the Defenders Dilators, scarce worth the proponing, are more then sufficient<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> answered, but the Pursuers are hopeful that the High and Honourable Court of Parlia<g ref="char:EOLhyphen"/>ment, knowing perfectly the rigour of the Marquiss his Forfaulture, and perceiving plainl<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that all designed by the Defenders, is to gain time, and drive over the Parliament, wil<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> therefore be the more careful to give this Process the due dispatch that it requires both before GOD and Man.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
